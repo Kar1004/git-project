@@ -1,6 +1,6 @@
 jsx
 let spanElt = document.querySelector(".timer span");
-let timer = 0;
+let timer = 30;
 
 setInterval(function() {
     timer++;
